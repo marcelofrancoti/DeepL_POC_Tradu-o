@@ -1,4 +1,4 @@
-# POC DeepL API
+# POC DeepL API NET CORE C#
 
 Esta é uma Prova de Conceito (POC) que utiliza a API do DeepL para tradução de textos. Para que a POC funcione corretamente, é necessário obter uma chave de autenticação da API, que exige um plano pago, conforme descrito abaixo.
 
