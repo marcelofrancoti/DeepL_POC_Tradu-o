@@ -1,0 +1,14 @@
+C:\Users\01174_marcelo\source\repos\POC_TraduzirTextos\POC_TraduzirTextos\bin\Debug\net8.0\POC_TraduzirTextos.exe
+C:\Users\01174_marcelo\source\repos\POC_TraduzirTextos\POC_TraduzirTextos\bin\Debug\net8.0\POC_TraduzirTextos.deps.json
+C:\Users\01174_marcelo\source\repos\POC_TraduzirTextos\POC_TraduzirTextos\bin\Debug\net8.0\POC_TraduzirTextos.runtimeconfig.json
+C:\Users\01174_marcelo\source\repos\POC_TraduzirTextos\POC_TraduzirTextos\bin\Debug\net8.0\POC_TraduzirTextos.dll
+C:\Users\01174_marcelo\source\repos\POC_TraduzirTextos\POC_TraduzirTextos\bin\Debug\net8.0\POC_TraduzirTextos.pdb
+C:\Users\01174_marcelo\source\repos\POC_TraduzirTextos\POC_TraduzirTextos\obj\Debug\net8.0\POC_TraduzirTextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01174_marcelo\source\repos\POC_TraduzirTextos\POC_TraduzirTextos\obj\Debug\net8.0\POC_TraduzirTextos.AssemblyInfoInputs.cache
+C:\Users\01174_marcelo\source\repos\POC_TraduzirTextos\POC_TraduzirTextos\obj\Debug\net8.0\POC_TraduzirTextos.AssemblyInfo.cs
+C:\Users\01174_marcelo\source\repos\POC_TraduzirTextos\POC_TraduzirTextos\obj\Debug\net8.0\POC_TraduzirTextos.csproj.CoreCompileInputs.cache
+C:\Users\01174_marcelo\source\repos\POC_TraduzirTextos\POC_TraduzirTextos\obj\Debug\net8.0\POC_TraduzirTextos.dll
+C:\Users\01174_marcelo\source\repos\POC_TraduzirTextos\POC_TraduzirTextos\obj\Debug\net8.0\refint\POC_TraduzirTextos.dll
+C:\Users\01174_marcelo\source\repos\POC_TraduzirTextos\POC_TraduzirTextos\obj\Debug\net8.0\POC_TraduzirTextos.pdb
+C:\Users\01174_marcelo\source\repos\POC_TraduzirTextos\POC_TraduzirTextos\obj\Debug\net8.0\POC_TraduzirTextos.genruntimeconfig.cache
+C:\Users\01174_marcelo\source\repos\POC_TraduzirTextos\POC_TraduzirTextos\obj\Debug\net8.0\ref\POC_TraduzirTextos.dll
